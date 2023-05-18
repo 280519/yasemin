@@ -1,0 +1,2 @@
+# yasemin
+karar analizi
